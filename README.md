@@ -1,4 +1,5 @@
 <h1>👋 Hi, I’m Sourabh Singh Jat </h1>
+
 ---
 
 ## 👀 I’m Interested In  
@@ -32,7 +33,6 @@ Tools and frameworks I use:
 - Java   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 - Python  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <br>
 ![Code Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 ---
 
 ## 📚 College Domains and Subjects  
@@ -41,10 +41,11 @@ Tools and frameworks I use:
 - **Computer Networks**  
 - **Machine Learning**  
 - **Data Structures and Algorithms (DSA)**  
-- **Object-Oriented Programming (OOP)**  
+- **Object-Oriented Programming (OOP)**
+<img src="https://media.licdn.com/dms/image/v2/D5612AQGsu10lYFvF-Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1700879485857?e=2147483647&v=beta&t=UE5AijjUkTATrVc2zEIbht1TYwEcZChRnEfGoIgPYKo" width="450" heigth= "450"/>
 
 ---
-## 🌱 Currently Learning
+## 🌱 Currently Learning  
 - Advanced Web Development Techniques.  
 - Enhancing Android applications with Jetpack Compose and Firebase.
 ---
