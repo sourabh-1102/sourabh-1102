@@ -9,6 +9,15 @@
 
 ---
 
+## 🌟 Featured Projects
+- **[Post office Improvement project (slotsvvy)](#)**: A AI powered website that will help to update the indian post time according their convenience.
+- **[StudetNest](#)**: A simple and problem solving website for students... this project is ongoing..(share full details after completion..)
+- **[Responsive Portfolio Website](#)**: Built using HTML, CSS, and JavaScript to showcase my skills and projects.  
+- **[Basic Food Ordering App](#)**: A simple and intuitive food ordering application created using Android Studio and SQLite.
+- **[Nexonvate](#)**: Stay tuned for updates...
+ 
+  
+
 ## 🔧 Skills  
 ### **Web Development**  
 - **HTML**:
@@ -50,9 +59,7 @@ Tools and frameworks I use:
 - Enhancing Android applications with Jetpack Compose and Firebase.
 ---
 
-## 🌟 Featured Projects
-- **[Responsive Portfolio Website](#)**: Built using HTML, CSS, and JavaScript to showcase my skills and projects.  
-- **[Basic Food Ordering App](#)**: A simple and intuitive food ordering application created using Android Studio and SQLite.  
+
 
 ## 🤝 Soft Skills  
 - Communication  
