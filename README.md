@@ -63,11 +63,7 @@ Tools and frameworks I use:
 - **Object-Oriented Programming (OOP)**
 <img src="https://media.licdn.com/dms/image/v2/D5612AQGsu10lYFvF-Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1700879485857?e=2147483647&v=beta&t=UE5AijjUkTATrVc2zEIbht1TYwEcZChRnEfGoIgPYKo" width="450" heigth= "450"/>
 
----
-## 🌱 Currently Learning  
-- Data Structures and Algorithms...  
-- Developing Full stack Websites.
----
+
 
 
 
